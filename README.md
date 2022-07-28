@@ -1,4 +1,5 @@
 ## Authentication challenge
+### Note: Python 3.10 is required for this project.
 ## Steps to run the program.
 
 ### 1. Clone the repository to local machine using command
